@@ -1,13 +1,6 @@
-name: example-environment
+name: analytics 
 channels:
   - conda-forge
 dependencies:
-  - numpy
-  - psutil
-  - toolz
-  - matplotlib
-  - dill
-  - pandas
-  - partd
-  - bokeh
-  - dask
+  - python=3.9
+  - polars=0.13.46
