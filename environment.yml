@@ -17,3 +17,4 @@ dependencies:
   - mccabe
   - pycodestyle
   - python-lsp-server
+  - plotly=5.8.2
