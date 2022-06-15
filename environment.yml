@@ -2,5 +2,18 @@ name: analytics
 channels:
   - conda-forge
 dependencies:
-  - python=3.9
-  - polars=0.13.46
+  - pandas=1.4.2
+  - jupyterlab=3.4.3
+  - notebook=6.4.11
+  - jupyterlab-git=0.37.1
+  - jupyterlab-lsp=3.10.1
+  - jupyterlab_code_formatter
+  - jupyterlab_templates=0.3.1
+  - black 
+  - isort
+  - voila=0.3.5
+  - rope
+  - pyflakes
+  - mccabe
+  - pycodestyle
+  - python-lsp-server
