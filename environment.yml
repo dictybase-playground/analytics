@@ -19,3 +19,5 @@ dependencies:
   - pycodestyle
   - python-lsp-server
   - plotly=5.8.2
+  - google-api-python-client
+  - oauth2client
